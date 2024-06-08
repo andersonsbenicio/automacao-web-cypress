@@ -1,0 +1,6 @@
+{
+  "input_email": "#email",
+  "input_password": "#password",
+  "btn_login": "#login",
+  "msg_alert": ".MuiPaper-root"
+}
